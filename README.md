@@ -15,8 +15,11 @@ It will expire in one hour after the user disconnect from the server or close th
 Nginx service is used as a reverse proxy for load balancing. It can protect the server when a huge amount of request is 
 coming in. Right now, I’m using round-robin as the methods for load balancing.
 
+##Frameworks and tools used:
+Angular5(ES2015), Node.js, Express, Flask, Redis, Socket.io, MongoDB
+Docker, RESTful API, Nginx.
 
-### to see the demo of the App, check the demo.pdf
+####  --to see the demo of the App, check the demo pdf--
 
 
 ## to start the app:
